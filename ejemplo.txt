@@ -1,0 +1,41 @@
+cd .. -> salir de lacarpeta actual
+ls -> muestra la carpeta y archivos de la terminal
+cd NombredelaCarpeta-> navega inmediatamente a una carpeta
+touch NombreArchivo.extension-> Crea una carpeta de 
+rm -> borrar archivo o carpeta
+
+Comandos de Git
+1) git init -> inicializa una carpeta con un repositorio localmente
+2) git add NombreArchivo ó git add . -> subir archivos / subir todos los archivos
+3) git commit -m -> mensaje que dejabamos en la interfase, por ejemplo "agregando archivo de ejemplo.txt"
+4) git remote add url-del-gith
+5) git push -u origin master ó git push -u origin main
+6) git status
+
+para probar agregamos esta ultima linea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
